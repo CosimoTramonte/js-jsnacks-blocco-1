@@ -7,7 +7,7 @@ Chiedi per 6 volte all’utente di inserire un numero, se è dispari inseriscilo
 ## JSnack 5
 - Creare un array vuoto
 - Chiedere 6 volte di inserire un numero con un ciclo
-- Grazie all'if, se è dispari faccamo un push nell'array
+- Grazie all'if, se è dispari facciamo un push nell'array
 
 
 Stampa il cubo dei primi N numeri, dove N è un numero indicato dall’utente.
