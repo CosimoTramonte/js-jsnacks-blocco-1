@@ -30,6 +30,14 @@ Questo snack cela un trabocchetto: 1000 non è una potenza di 2 perciò per ferm
 - Push all'interno del array solo i risultati che sono minori di 1000 (cioè fino a 512).
 - Stampo nell'output
 
+---
 
+Chiedi un numero di 4 cifre all’utente
+e calcola la somma di tutte le cifre che compongono il numero.
+
+## JSnack 8
+- Chiedo all'utente 4 cifre
+- Il prompt mi restituisce una stringa e la divido in ogni singola cifra
+- Con un ciclo somma ogni cifra e stampo il risultato
 
 
