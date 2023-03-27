@@ -13,7 +13,7 @@ Chiedi per 6 volte all’utente di inserire un numero, se è dispari inseriscilo
 Stampa il cubo dei primi N numeri, dove N è un numero indicato dall’utente.
 
 ## JSnack 6
-- 
+- L'utente indica un numero N
 - 
 - 
 - 
