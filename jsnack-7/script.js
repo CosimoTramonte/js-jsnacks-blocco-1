@@ -11,8 +11,7 @@ while(result < 1000){
 
     if(result < 1000){
         pow.push(result);
-        counter++      
-         
+        counter++              
     }  
     
 }

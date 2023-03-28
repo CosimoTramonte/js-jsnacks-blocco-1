@@ -1,5 +1,8 @@
 
-const fourNumber = prompt("inserisci 4 cifre")
+do{
+    fourNumber = prompt("inserisci 4 cifre")
+}while(!(fourNumber.length === 4))
+
 let total = 0
 
 const split = fourNumber.split("")

@@ -7,7 +7,7 @@ let counter = 0;
 
 while(counter <= numero){
 
-    //oppure math.cube(counter)
+    
     let cubo = (counter * counter * counter);
 
     cubi.push(cubo);
